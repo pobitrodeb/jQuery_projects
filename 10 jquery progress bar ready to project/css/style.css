@@ -1,0 +1,59 @@
+        /* ##### START GOBAL CSS##### */
+        
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        body {
+            margin: 0px;
+            padding: 0px;
+            background-color: #ffffff;
+            font-weight: bold;
+        }
+        
+        .container_fluid {
+            width: 100%;
+        }
+        
+        .container {
+            max-width: 960px;
+            margin: 0px auto;
+        }
+        
+        li {
+            list-style: none;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        /* ##### END  GOBAL CSS##### */
+        .wrapper{
+            background: #808080;
+            margin: 0px auto; 
+            height: 450px;
+            over-flow: hidden;
+        }
+        .wrapper h1 {
+            font-size: 75px;
+            text-align: center;
+            font-weight: bold;
+            color: white;
+        }
+        .skill-area{
+          margin-top: 45px ;
+            background:#22a6f2;
+
+        }
+        .single-skill {
+        display: block;
+	    float: left;
+        width:  25%;
+}
+.single-skill h2{
+    font-size: 12px;
+}
+.circlesheet h2{
+    color: white;
+}
