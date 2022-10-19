@@ -1,0 +1,41 @@
+/* ##### Golobal CSS ###### */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #ffffff;
+}
+
+.container_fluid {
+    width: 100%;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0px auto;
+}
+
+
+/* ##### end Golobal CSS ###### */
+
+.owl-carousel .div1 {
+    color: white;
+    background-color: #2d2f32;
+    border: 1px solid #fff;
+    margin: 15px;
+}
+
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel button.owl-dot {
+    height: 31px;
+    width: 33px;
+    background-color: yellow;
+    border: 1px solid;
+    text-align: center;
+}
