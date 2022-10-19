@@ -1,0 +1,59 @@
+        /* ##### START GOBAL CSS##### */
+        
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        body {
+            margin: 0px;
+            padding: 0px;
+            background-color: #ffffff;
+        }
+        
+        .container_fluid {
+            width: 100%;
+        }
+        
+        .container {
+            max-width: 960px;
+            margin: 0px auto;
+        }
+        
+        li {
+            list-style: none;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        /* ##### END  GOBAL CSS##### */
+        .click{
+            margin: 10px auto;
+            overflow: hidden;
+            background: #27ae60;
+            padding: 15px;
+            color: #ecf0f1;
+            width: 55%;
+        }
+        .click button{
+            margin: 0px auto;
+            width: 450px;
+            padding: 10px 25px;
+            text-align: center;
+            background: #2c3e50;
+            color: white;
+            font-size: 25px;
+        }
+        .click button:hover{
+            color: white;
+            background: #16a085;
+        }
+        .click p{
+            font-size: 18px;
+            
+        }
+        .contactSubmit{
+            width:100%;
+            padding: 15px 0px;
+        }
