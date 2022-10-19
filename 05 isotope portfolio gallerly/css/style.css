@@ -1,0 +1,96 @@
+        /* ##### START GOBAL CSS##### */
+
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        body {
+            margin: 0px;
+            padding: 0px;
+            background-color: #ffffff;
+        }
+
+        .container_fluid {
+            width: 100%;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: 0px auto;
+        }
+
+        li {
+            list-style: none;
+        }
+
+        a {
+            text-decoration: none;
+        }
+        /* ##### END  GOBAL CSS##### */
+      .gallery_menu{
+      }
+      .gallery_menu{
+        background-color: #00a179;
+        height: 70px;
+      }
+      .gallery_menu ul {}
+      .gallery_menu ul li{
+        float: left;
+        display:inline-block;
+        padding: 17px 25px;
+      }
+      .gallery_menu li a{
+          color: white;
+          font-size: 20px;
+          font-weight: bold;
+          text-decoration: none;
+          text-transform: capitalize;
+      }
+      .gallery_menu li a:hover{}
+      .gallery_item{
+
+
+
+      }
+      .meeting{
+        display: flex;
+        justify-content: space-between;
+        margin: 14px 0px;
+      }
+      .meeting a{
+        margin: 0px 10px;
+
+      }
+      .meeting a img{
+        width: 100%;
+
+      }
+      /* presentation */
+      .presentention{
+        display: flex;
+        justify-content: space-between;
+        margin: 14px 0px;
+      }
+      .presentention a{
+        margin: 0px 10px;
+
+      }
+      .presentention a img{
+        width: 100%;
+
+      }
+      /* instractor */
+      .instractor{
+        display: flex;
+        justify-content: space-between;
+        margin: 14px 0px;
+      }
+      .instractor a{
+        margin: 0px 10px;
+
+      }
+      .instractor a img{
+        width: 100%;
+
+      }
