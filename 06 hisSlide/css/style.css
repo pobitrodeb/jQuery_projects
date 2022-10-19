@@ -1,0 +1,39 @@
+        /* ##### START GOBAL CSS##### */
+        
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        body {
+            margin: 0px;
+            padding: 0px;
+            background-color: #ffffff;
+        }
+        
+        .container_fluid {
+            width: 100%;
+        }
+        
+        .container {
+            max-width: 960px;
+            margin: 0px auto;
+        }
+        
+        li {
+            list-style: none;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        /* ##### END  GOBAL CSS##### */
+        .hi-slide .hi-prev,
+        .hi-slide .hi-next {
+         
+
+        }
+        .hi-next li img{
+            height: 50px;
+            width: 100%;
+        }
