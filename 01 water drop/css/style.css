@@ -1,0 +1,44 @@
+        /* ##### START GOBAL CSS##### */
+
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        body {
+            margin: 0px;
+            padding: 0px;
+            background-color: #ffffff;
+        }
+
+        .container_fluid {
+            width: 100%;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: 0px auto;
+        }
+
+        li {
+            list-style: none;
+        }
+
+        a {
+            text-decoration: none;
+        }
+        /* ##### END  GOBAL CSS##### */
+        .banner{
+          background-image: url('../img/1img.jpg');
+          background-size: cover;
+          height: 100vh;
+          background-position: center center;
+        }
+        .banner h2{
+          color: white;
+          position: absolute;
+          top: 50%;
+          left: 40%;
+          font-size: 56px;
+          font-weight: 900;
+        }
