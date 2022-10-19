@@ -1,0 +1,107 @@
+        /* ##### START GOBAL CSS##### */
+        
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        body {
+            margin: 0px;
+            padding: 0px;
+            background-color: #ffffff;
+        }
+        
+        .container_fluid {
+            width: 100%;
+        }
+        
+        .container {
+            max-width: 960px;
+            margin: 0px auto;
+        }
+        
+        li {
+            list-style: none;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        /* ##### END  GOBAL CSS##### */
+        
+.container{}
+.faq_main{
+    margin: 10px auto;
+    background: #ffb8b8;
+    padding: 25px 15px;
+    width: 95%;
+}
+.botton{
+    padding: 15px 0px;
+    font-size: 22px;
+    
+}
+.botton button {
+	padding: 11px 150px;
+    border: 0px;
+    
+}
+.botton .fa-plus{
+  margin-left: 50px;
+}
+
+.faq_main p{
+    font-size: 16px;
+    padding: 15px 0px;
+
+}
+.botton1{
+    padding: 15px 0px;
+    font-size: 22px;
+}
+.botton1 button {
+	padding: 11px 150px;
+    border: 0px;
+    
+}
+.botton1 .fa-plus{
+  margin-left: 50px;
+}
+/* ----------------------------------- */
+.botton2{
+    padding: 15px 0px;
+    font-size: 22px;
+}
+.botton2 button {
+	padding: 11px 150px;
+    border: 0px;
+    
+}
+.botton2 .fa-plus{
+  margin-left: 50px;
+}
+/* ------------------------------------------ */
+.botton3{
+  padding: 11px 0px;
+    font-size: 22px;
+}
+.botton3 button {
+	padding: 11px 150px;
+    border: 0px;
+    
+}
+.botton3 .fa-plus{
+  margin-left: 50px;
+}
+/* ----------------------------------------------- */
+.botton4 {
+    padding: 15px 0px;
+    font-size: 22px;
+}
+.botton4 button {
+	padding: 11px 150px;
+    border: 0px;  
+}
+.botton4 .fa-plus{
+ margin-left: 50px;
+}
